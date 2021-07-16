@@ -27,7 +27,7 @@ const Grid = styled.div`
   width: 100%;
   padding: 20px;
 
-  div {
+  > div {
     background-color: #fff;
     border-radius: 5px;
     padding: 20px;
